@@ -1,0 +1,27 @@
+
+
+ul{
+	
+	float:left;
+	
+} 
+
+.navbar-collapse
+{
+padding : 25px;
+
+color: white;
+}
+.navbar-toggle
+{
+	margin-top: 25px !Important;
+    margin-right: 15px;
+    margin-bottom: 25px;
+	margin-left: 15px;
+	background-color: #F68A1E !Important;
+
+}
+
+ul li a{
+	color: #F68A1E !Important;
+}
